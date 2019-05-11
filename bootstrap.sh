@@ -6,3 +6,4 @@ sudo apt-get update
 sudo apt-get install -y nodejs
 sudo apt-get install -y build-essential
 sudo npm install -g yarn
+sudo yarn global add prisma
